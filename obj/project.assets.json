@@ -73,79 +73,6 @@
           }
         }
       }
-    },
-    "net8.0/linux-x64": {
-      "Amazon.Lambda.APIGatewayEvents/2.7.0": {
-        "type": "package",
-        "compile": {
-          "lib/net8.0/Amazon.Lambda.APIGatewayEvents.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net8.0/Amazon.Lambda.APIGatewayEvents.dll": {
-            "related": ".xml"
-          }
-        }
-      },
-      "Amazon.Lambda.Core/2.2.0": {
-        "type": "package",
-        "compile": {
-          "lib/net8.0/Amazon.Lambda.Core.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net8.0/Amazon.Lambda.Core.dll": {
-            "related": ".xml"
-          }
-        }
-      },
-      "Amazon.Lambda.Serialization.SystemTextJson/2.4.0": {
-        "type": "package",
-        "dependencies": {
-          "Amazon.Lambda.Core": "2.2.0"
-        },
-        "compile": {
-          "lib/net8.0/Amazon.Lambda.Serialization.SystemTextJson.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net8.0/Amazon.Lambda.Serialization.SystemTextJson.dll": {
-            "related": ".xml"
-          }
-        }
-      },
-      "AWSSDK.Core/3.7.301.9": {
-        "type": "package",
-        "compile": {
-          "lib/net8.0/AWSSDK.Core.dll": {
-            "related": ".pdb;.xml"
-          }
-        },
-        "runtime": {
-          "lib/net8.0/AWSSDK.Core.dll": {
-            "related": ".pdb;.xml"
-          }
-        }
-      },
-      "AWSSDK.DynamoDBv2/3.7.301": {
-        "type": "package",
-        "dependencies": {
-          "AWSSDK.Core": "[3.7.301.9, 4.0.0)"
-        },
-        "compile": {
-          "lib/net8.0/AWSSDK.DynamoDBv2.dll": {
-            "related": ".pdb;.xml"
-          }
-        },
-        "runtime": {
-          "lib/net8.0/AWSSDK.DynamoDBv2.dll": {
-            "related": ".pdb;.xml"
-          }
-        }
-      }
     }
   },
   "libraries": {
@@ -357,11 +284,6 @@
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
-      }
-    },
-    "runtimes": {
-      "linux-x64": {
-        "#import": []
       }
     }
   }
