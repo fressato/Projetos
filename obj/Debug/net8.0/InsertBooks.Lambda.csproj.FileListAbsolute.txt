@@ -1,0 +1,12 @@
+C:\Users\JessicaFressato\Desktop\Projetos\ExamplesUsingAwsSdk-main\ExampleCrud\C#\InsertBooks.Lambda\bin\Debug\net8.0\InsertBooks.Lambda.deps.json
+C:\Users\JessicaFressato\Desktop\Projetos\ExamplesUsingAwsSdk-main\ExampleCrud\C#\InsertBooks.Lambda\bin\Debug\net8.0\InsertBooks.Lambda.dll
+C:\Users\JessicaFressato\Desktop\Projetos\ExamplesUsingAwsSdk-main\ExampleCrud\C#\InsertBooks.Lambda\bin\Debug\net8.0\InsertBooks.Lambda.pdb
+C:\Users\JessicaFressato\Desktop\Projetos\ExamplesUsingAwsSdk-main\ExampleCrud\C#\InsertBooks.Lambda\obj\Debug\net8.0\InsertBooks.Lambda.csproj.AssemblyReference.cache
+C:\Users\JessicaFressato\Desktop\Projetos\ExamplesUsingAwsSdk-main\ExampleCrud\C#\InsertBooks.Lambda\obj\Debug\net8.0\InsertBooks.Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JessicaFressato\Desktop\Projetos\ExamplesUsingAwsSdk-main\ExampleCrud\C#\InsertBooks.Lambda\obj\Debug\net8.0\InsertBooks.Lambda.AssemblyInfoInputs.cache
+C:\Users\JessicaFressato\Desktop\Projetos\ExamplesUsingAwsSdk-main\ExampleCrud\C#\InsertBooks.Lambda\obj\Debug\net8.0\InsertBooks.Lambda.AssemblyInfo.cs
+C:\Users\JessicaFressato\Desktop\Projetos\ExamplesUsingAwsSdk-main\ExampleCrud\C#\InsertBooks.Lambda\obj\Debug\net8.0\InsertBooks.Lambda.csproj.CoreCompileInputs.cache
+C:\Users\JessicaFressato\Desktop\Projetos\ExamplesUsingAwsSdk-main\ExampleCrud\C#\InsertBooks.Lambda\obj\Debug\net8.0\InsertBooks.Lambda.dll
+C:\Users\JessicaFressato\Desktop\Projetos\ExamplesUsingAwsSdk-main\ExampleCrud\C#\InsertBooks.Lambda\obj\Debug\net8.0\refint\InsertBooks.Lambda.dll
+C:\Users\JessicaFressato\Desktop\Projetos\ExamplesUsingAwsSdk-main\ExampleCrud\C#\InsertBooks.Lambda\obj\Debug\net8.0\InsertBooks.Lambda.pdb
+C:\Users\JessicaFressato\Desktop\Projetos\ExamplesUsingAwsSdk-main\ExampleCrud\C#\InsertBooks.Lambda\obj\Debug\net8.0\ref\InsertBooks.Lambda.dll

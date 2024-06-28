@@ -1,0 +1,9 @@
+C:\Users\JessicaFressato\Desktop\Projetos\ExamplesUsingAwsSdk-main\ExampleCrud\C#\InsertBooks.Lambda\bin\Release\net8.0\publish\InsertBooks.Lambda.dll
+C:\Users\JessicaFressato\Desktop\Projetos\ExamplesUsingAwsSdk-main\ExampleCrud\C#\InsertBooks.Lambda\bin\Release\net8.0\publish\InsertBooks.Lambda.deps.json
+C:\Users\JessicaFressato\Desktop\Projetos\ExamplesUsingAwsSdk-main\ExampleCrud\C#\InsertBooks.Lambda\bin\Release\net8.0\publish\InsertBooks.Lambda.runtimeconfig.json
+C:\Users\JessicaFressato\Desktop\Projetos\ExamplesUsingAwsSdk-main\ExampleCrud\C#\InsertBooks.Lambda\bin\Release\net8.0\publish\InsertBooks.Lambda.pdb
+C:\Users\JessicaFressato\Desktop\Projetos\ExamplesUsingAwsSdk-main\ExampleCrud\C#\InsertBooks.Lambda\bin\Release\net8.0\publish\Amazon.Lambda.APIGatewayEvents.dll
+C:\Users\JessicaFressato\Desktop\Projetos\ExamplesUsingAwsSdk-main\ExampleCrud\C#\InsertBooks.Lambda\bin\Release\net8.0\publish\Amazon.Lambda.Core.dll
+C:\Users\JessicaFressato\Desktop\Projetos\ExamplesUsingAwsSdk-main\ExampleCrud\C#\InsertBooks.Lambda\bin\Release\net8.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\JessicaFressato\Desktop\Projetos\ExamplesUsingAwsSdk-main\ExampleCrud\C#\InsertBooks.Lambda\bin\Release\net8.0\publish\AWSSDK.Core.dll
+C:\Users\JessicaFressato\Desktop\Projetos\ExamplesUsingAwsSdk-main\ExampleCrud\C#\InsertBooks.Lambda\bin\Release\net8.0\publish\AWSSDK.DynamoDBv2.dll

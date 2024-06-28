@@ -1,0 +1,14 @@
+C:\Users\JessicaFressato\Desktop\Projetos\ExamplesUsingAwsSdk-main\ExampleCrud\C#\InsertBooks.Lambda\bin\Release\net8.0\linux-x64\InsertBooks.Lambda.deps.json
+C:\Users\JessicaFressato\Desktop\Projetos\ExamplesUsingAwsSdk-main\ExampleCrud\C#\InsertBooks.Lambda\bin\Release\net8.0\linux-x64\InsertBooks.Lambda.runtimeconfig.json
+C:\Users\JessicaFressato\Desktop\Projetos\ExamplesUsingAwsSdk-main\ExampleCrud\C#\InsertBooks.Lambda\bin\Release\net8.0\linux-x64\InsertBooks.Lambda.dll
+C:\Users\JessicaFressato\Desktop\Projetos\ExamplesUsingAwsSdk-main\ExampleCrud\C#\InsertBooks.Lambda\bin\Release\net8.0\linux-x64\InsertBooks.Lambda.pdb
+C:\Users\JessicaFressato\Desktop\Projetos\ExamplesUsingAwsSdk-main\ExampleCrud\C#\InsertBooks.Lambda\obj\Release\net8.0\linux-x64\InsertBooks.Lambda.csproj.AssemblyReference.cache
+C:\Users\JessicaFressato\Desktop\Projetos\ExamplesUsingAwsSdk-main\ExampleCrud\C#\InsertBooks.Lambda\obj\Release\net8.0\linux-x64\InsertBooks.Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JessicaFressato\Desktop\Projetos\ExamplesUsingAwsSdk-main\ExampleCrud\C#\InsertBooks.Lambda\obj\Release\net8.0\linux-x64\InsertBooks.Lambda.AssemblyInfoInputs.cache
+C:\Users\JessicaFressato\Desktop\Projetos\ExamplesUsingAwsSdk-main\ExampleCrud\C#\InsertBooks.Lambda\obj\Release\net8.0\linux-x64\InsertBooks.Lambda.AssemblyInfo.cs
+C:\Users\JessicaFressato\Desktop\Projetos\ExamplesUsingAwsSdk-main\ExampleCrud\C#\InsertBooks.Lambda\obj\Release\net8.0\linux-x64\InsertBooks.Lambda.csproj.CoreCompileInputs.cache
+C:\Users\JessicaFressato\Desktop\Projetos\ExamplesUsingAwsSdk-main\ExampleCrud\C#\InsertBooks.Lambda\obj\Release\net8.0\linux-x64\InsertBooks.Lambda.dll
+C:\Users\JessicaFressato\Desktop\Projetos\ExamplesUsingAwsSdk-main\ExampleCrud\C#\InsertBooks.Lambda\obj\Release\net8.0\linux-x64\refint\InsertBooks.Lambda.dll
+C:\Users\JessicaFressato\Desktop\Projetos\ExamplesUsingAwsSdk-main\ExampleCrud\C#\InsertBooks.Lambda\obj\Release\net8.0\linux-x64\InsertBooks.Lambda.pdb
+C:\Users\JessicaFressato\Desktop\Projetos\ExamplesUsingAwsSdk-main\ExampleCrud\C#\InsertBooks.Lambda\obj\Release\net8.0\linux-x64\InsertBooks.Lambda.genruntimeconfig.cache
+C:\Users\JessicaFressato\Desktop\Projetos\ExamplesUsingAwsSdk-main\ExampleCrud\C#\InsertBooks.Lambda\obj\Release\net8.0\linux-x64\ref\InsertBooks.Lambda.dll
