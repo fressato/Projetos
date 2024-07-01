@@ -4,6 +4,7 @@ using System.Text.Json;
 using Amazon;
 using Amazon.DynamoDBv2;
 using Amazon.DynamoDBv2.DataModel;
+using Amazon.DynamoDBv2.DocumentModel;
 using Amazon.Lambda.APIGatewayEvents;
 using Amazon.Lambda.Core;
 using Amazon.Lambda.Serialization.SystemTextJson;
@@ -70,6 +71,30 @@ public class BookControoler
             }
       
     }
+    public async Task<APIGatewayProxyResponse> GetAllBooks(APIGatewayProxyRequest request, ILambdaContext context)
+{
+    var dbClient = new AmazonDynamoDBClient(RegionEndpoint.GetBySystemName(GetRegionName()));
+    using (var dbContext = new DynamoDBContext(dbClient))
+    {
+       
+        var books = await dbContext.ScanAsync<Book>(new List<ScanCondition>()).GetRemainingAsync();
+
+        if (books != null)
+        {
+            var response = GetDefaultResponse();
+            response.Body = JsonSerializer.Serialize(books);
+            return response;
+        }
+
+        return new APIGatewayProxyResponse
+        {
+            StatusCode = (int)HttpStatusCode.NotFound,
+            Body = JsonSerializer.Serialize(new { Message = "No books found" })
+        };
+    }
+}
+
+
     public async Task<APIGatewayProxyResponse> UpdateBook (APIGatewayProxyRequest request, ILambdaContext context){
         var bookId = request.PathParameters["bookId"];
         var updateBook = JsonSerializer.Deserialize<Book>(request.Body);

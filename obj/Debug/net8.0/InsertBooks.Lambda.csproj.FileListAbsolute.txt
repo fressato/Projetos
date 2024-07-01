@@ -10,3 +10,4 @@ C:\Users\JessicaFressato\Desktop\Projetos\ExamplesUsingAwsSdk-main\ExampleCrud\C
 C:\Users\JessicaFressato\Desktop\Projetos\ExamplesUsingAwsSdk-main\ExampleCrud\C#\InsertBooks.Lambda\obj\Debug\net8.0\refint\InsertBooks.Lambda.dll
 C:\Users\JessicaFressato\Desktop\Projetos\ExamplesUsingAwsSdk-main\ExampleCrud\C#\InsertBooks.Lambda\obj\Debug\net8.0\InsertBooks.Lambda.pdb
 C:\Users\JessicaFressato\Desktop\Projetos\ExamplesUsingAwsSdk-main\ExampleCrud\C#\InsertBooks.Lambda\obj\Debug\net8.0\ref\InsertBooks.Lambda.dll
+C:\Users\JessicaFressato\Desktop\Projetos\ExamplesUsingAwsSdk-main\ExampleCrud\C#\InsertBooks.Lambda\obj\Debug\net8.0\InsertBooks.Lambda.sourcelink.json

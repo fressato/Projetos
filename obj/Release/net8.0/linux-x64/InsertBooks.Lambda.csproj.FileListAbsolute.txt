@@ -12,3 +12,4 @@ C:\Users\JessicaFressato\Desktop\Projetos\ExamplesUsingAwsSdk-main\ExampleCrud\C
 C:\Users\JessicaFressato\Desktop\Projetos\ExamplesUsingAwsSdk-main\ExampleCrud\C#\InsertBooks.Lambda\obj\Release\net8.0\linux-x64\InsertBooks.Lambda.pdb
 C:\Users\JessicaFressato\Desktop\Projetos\ExamplesUsingAwsSdk-main\ExampleCrud\C#\InsertBooks.Lambda\obj\Release\net8.0\linux-x64\InsertBooks.Lambda.genruntimeconfig.cache
 C:\Users\JessicaFressato\Desktop\Projetos\ExamplesUsingAwsSdk-main\ExampleCrud\C#\InsertBooks.Lambda\obj\Release\net8.0\linux-x64\ref\InsertBooks.Lambda.dll
+C:\Users\JessicaFressato\Desktop\Projetos\ExamplesUsingAwsSdk-main\ExampleCrud\C#\InsertBooks.Lambda\obj\Release\net8.0\linux-x64\InsertBooks.Lambda.sourcelink.json

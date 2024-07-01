@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InsertBooks.Lambda")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66ddcacba95bde480677ab43c59c8b21b02bb1ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("InsertBooks.Lambda")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InsertBooks.Lambda")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
